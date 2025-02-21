@@ -1,0 +1,13 @@
+{
+  "customizations": {
+    "codespaces": {
+      "repositories": {
+        "MarcoAntonioMartinez/Scrapy-Project": {
+          "permissions": {
+            "issues": "write-all"
+          }
+        }
+      }
+    }
+  }
+}
